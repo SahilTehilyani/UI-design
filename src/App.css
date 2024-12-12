@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  display: flex;
+  justify-content: center;
+  margin-left: 265px;
+  padding-top: 225px;
+}
+
+
+img{
+  width: 25%;
+  cursor: pointer;
+  object-fit: cover;
+}
+
+img:hover{
+  scale: 1.2;
+}
+
+#pge{
+ position: absolute;
+ left: 270px;
+ color: white;
+}
+
+#pge2{
+ position: absolute;
+ left: 540px;
+ top: 226px;
+ color: white;
+}
+
+#pge3{
+ position: absolute;
+ right: 476px;
+ top: 224px;
+ color: white;
+}
+
+

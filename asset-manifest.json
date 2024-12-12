@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UI-design/static/css/main.8558187e.css",
+    "main.js": "/UI-design/static/js/main.dd428850.js",
+    "index.html": "/UI-design/index.html",
+    "main.8558187e.css.map": "/UI-design/static/css/main.8558187e.css.map",
+    "main.dd428850.js.map": "/UI-design/static/js/main.dd428850.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8558187e.css",
+    "static/js/main.dd428850.js"
+  ]
+}
